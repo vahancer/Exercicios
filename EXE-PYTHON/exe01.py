@@ -1,3 +1,5 @@
+# o código  é um banco de dados simples, com opções de interação. como, adicionar, ver lista, remover item... etc.
+
 compras = list()
 
 while True:
