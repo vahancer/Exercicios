@@ -52,7 +52,7 @@ for p in lista_alunos:
     
 while True:
     ver_notas = int(input('\n\033[33mMostrar notas de qual Aluno:\033[m \033[31m[999 PARA INTERROMPER]\033[m\033[33m:\033[m '))
-
+    
     if ver_notas == 999:
         print('\n\033[31mPrograma Encerrado.\033[m')
         break
